@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcendent Charter LLP - Coming Soon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 50px 0;
+        }
+        .logo {
+            margin-bottom: 30px;
+        }
+        .logo img {
+            width: 200px;
+        }
+        h1 {
+            font-size: 36px;
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #666;
+            margin: 20px 0;
+        }
+        .services {
+            margin: 30px 0;
+        }
+        .contact-info {
+            margin: 30px 0;
+        }
+        .contact-info a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        .social-media {
+            margin: 30px 0;
+        }
+        .social-media a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #007bff;
+        }
+        .social-media a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="path_to_your_logo.png" alt="Transcendent Charter LLP">
+        </div>
+        <h1>Transcendent Charter LLP</h1>
+        <p>Redefining luxury transportation with unparalleled levels of comfort, style, and convenience.</p>
+        <div class="services">
+            <h2>Our Services</h2>
+            <p>Coming Soon:</p>
+            <ul>
+                <li>Luxury Cadillac Escalades</li>
+                <li>Mercedes Sprinter Vans</li>
+                <li>Front Engine Mini Buses</li>
+                <li>Full-Sized Coaches</li>
+                <li>Gulfstream 650</li>
+                <li>Luxury Yacht</li>
+            </ul>
+        </div>
+        <div class="contact-info">
+            <p>Interested in our services? Contact us:</p>
+            <p>Email: <a href="mailto:contact@transcendentcharter.com">contact@transcendentcharter.com</a></p>
+            <p>Phone: (123) 456-7890</p>
+        </div>
+        <div class="social-media">
+            <p>Follow us on:</p>
+            <a href="https://facebook.com/yourpage" target="_blank">Facebook</a> |
+            <a href="https://twitter.com/yourpage" target="_blank">Twitter</a> |
+            <a href="https://instagram.com/yourpage" target="_blank">Instagram</a>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 Transcendent Charter LLP. All rights reserved.
+    </footer>
+</body>
+</html>
